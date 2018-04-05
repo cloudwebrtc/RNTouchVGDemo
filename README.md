@@ -8,7 +8,7 @@ Demo for https://github.com/cloudwebrtc/react-native-touchvg.git
 
 ## Demo
 
-![android-demo](https://raw.githubusercontent.com/cloudwebrtc/RNTouchVGDemo/master/screenshots/Android.gif)
+![image](https://raw.githubusercontent.com/cloudwebrtc/RNTouchVGDemo/master/screenshots/Android.gif)
 
 ## NOTE
 -
