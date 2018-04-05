@@ -7,8 +7,7 @@ Demo for https://github.com/cloudwebrtc/react-native-touchvg.git
 - For Android, run `react-native run-android` in the directory.  
 
 ## Demo
-
-![image](https://raw.githubusercontent.com/cloudwebrtc/RNTouchVGDemo/master/screenshots/Android.gif)
+<img width="360" height="640" src="https://raw.githubusercontent.com/cloudwebrtc/RNTouchVGDemo/master/screenshots/Android.gif"/>
 
 ## NOTE
 -
